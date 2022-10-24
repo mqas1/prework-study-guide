@@ -1,6 +1,6 @@
 # Prework Study Guide Webpage
 
-![screen shot of Prework Study Guide with console open](prework-study-guide/assets/screen-shot.png)
+![screen shot of Prework Study Guide with console open](assets/screen-shot.png)
 
 ## Description
 
